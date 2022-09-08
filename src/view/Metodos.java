@@ -30,6 +30,8 @@ public class Metodos  {
 
         }
 
+
+
     }
     
     public void readJTableProjeto(JTable t) {
@@ -65,6 +67,7 @@ public class Metodos  {
             modelo.addRow(new Object[]{
                 p.getCodigo(),
                 p.getNome(),
+                
                 p.getEndereco()
             });
 
