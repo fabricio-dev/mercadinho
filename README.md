@@ -1,2 +1,2 @@
-# MercadinhoGosling
-Aulas Java com Banco de Dados MySQL
+# Mercadinho 
+Java com Banco de Dados MySQL
